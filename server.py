@@ -27,13 +27,8 @@ def server_program():
     conn.close()  # close the connection
 
 
-<<<<<<< HEAD
 # if __name__ == '__main__':
 #     server_program()
 
 
 #tuanbita!!!
-=======
-if __name__ == '__main__':
-    server_program()
->>>>>>> master
